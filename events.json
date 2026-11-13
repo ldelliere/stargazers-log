@@ -1,0 +1,20 @@
+[
+  {
+    "repository": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "A community-driven curriculum for learning to code.",
+    "starred_at": "2025-01-15"
+  },
+  {
+    "repository": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "A curated list of awesome projects and resources.",
+    "starred_at": "2025-02-03"
+  },
+  {
+    "repository": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "description": "The React framework for production.",
+    "starred_at": "2025-03-21"
+  }
+]
